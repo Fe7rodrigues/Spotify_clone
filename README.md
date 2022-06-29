@@ -1,4 +1,4 @@
-<h1>Clone do site do Spotify<h1>
+# Clone do site do Spotify
 <br>
 <h3> Foi utilizado HTML e CSS.<h3>
 <br>
